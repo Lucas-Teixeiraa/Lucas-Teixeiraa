@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-teixeiraa&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-teixeiraa" /> </p>
 
-- 🌱 I’m currently learning **Java Web | Springboot**
+- 🌱 I’m currently learning **Java/Kotlin Web | Springboot**
 
 - 📄 Know about my experiences [Software Engineering student at UFAM, knowledgeable and appreciative of technology and computing. Knowledge of agile methodologies: Scrum. Knowledge of Java - Springboot - Maven, C, HTML, CSS and JavaScript. Knowledge of Node.js (Express and Sequelize) and Swagger. Communicative, Proactive, Flexibility and Analysis capacity.](Software Engineering student at UFAM, knowledgeable and appreciative of technology and computing. Knowledge of agile methodologies: Scrum. Knowledge of Java - Springboot - Maven, C, HTML, CSS and JavaScript. Knowledge of Node.js (Express and Sequelize) and Swagger. Communicative, Proactive, Flexibility and Analysis capacity.)
 
