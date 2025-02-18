@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-teixeiraa&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-teixeiraa" /> </p>
 
-- 🌱 I’m currently specializing in **Mobile Development using Kotlin**
 
 - 🎓 I graduated in **Software Engineering** from UFAM (Federal University of Amazonas)
 
